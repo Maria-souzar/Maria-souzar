@@ -4,7 +4,7 @@ Atualmente estou iniciando meus estudos em programação, com foco em C#.
 
 ## O que estou estudando:
 
-- C# com .NET
+- C#
 - Lógica de programação
 - Git e GitHub
 
