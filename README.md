@@ -1,16 +1,12 @@
 ## Olá! Me chamo Maria.👋
 
-Atualmente estou iniciando meus estudos em programação, com foco em C#.
+Atualmente estou iniciando meus estudos em programação, com foco em Python.
 
 ## O que estou estudando:
 
-- C#
+- Python
 - Lógica de programação
 - Git e GitHub
-
-## Projetos
-
-- [Hello World em C#](https://github.com/Maria-souzar/hello-world-csharp)
 
 ## Me encontre por aqui:
 
