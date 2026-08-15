@@ -4,8 +4,8 @@ Atualmente estou iniciando meus estudos em programação, com foco em desenvolvi
 
 ## O que estou estudando:
 
-- Python
 - Lógica de programação
+- Banco de dados
 - HTML, CSS e JavaSript
 - Git e GitHub
 
