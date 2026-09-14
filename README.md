@@ -6,7 +6,7 @@ Atualmente estou iniciando meus estudos em programação, com foco em desenvolvi
 
 - Lógica de programação
 - Banco de dados
-- HTML, CSS e JavaSript
+- SQL, PHP, EXCEL, PYTHON
 - Git e GitHub
 
 ## Me encontre por aqui:
