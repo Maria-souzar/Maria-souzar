@@ -1,6 +1,6 @@
 ## Olá! Me chamo Maria.👋
 
-Atualmente estou iniciando meus estudos em programação, com foco em desenvolvimento back-end.
+Atualmente estou iniciando meus estudos em programação, com foco em Dados.
 
 ## O que estou estudando:
 
