@@ -14,25 +14,22 @@ Atualmente estou iniciando meus estudos em programação, com foco em Dados.
 - [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-souza-ribeiro-a160a72aa/)
 ---
 
-✨ Dando os primeiros passos rumo à carreira em tecnologia!
 
 
 
 
 
-<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá, eu sou a Maria</h1>
 
 <p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🎨 Criativo
+   Estudante | Apaixonada por dados | dedicada
 </p>
 
 ---
 
 ## 📌 Sobre mim
-- 🔭 Atualmente trabalhando em **[Seu Projeto/Empresa]**
-- 🌱 Aprendendo mais sobre **[Tecnologias/Ferramentas]**
-- 💬 Pergunte-me sobre **[Áreas de conhecimento]**
-- ⚡ Curiosidade: **[Algo divertido sobre você]**
+- 🔭 Atualmente estudo na **Fatec**
+- 🌱 Aprendendo mais sobre **Python, sql, excel, git/github e lógica**
 
 ---
 
@@ -48,21 +45,23 @@ Atualmente estou iniciando meus estudos em programação, com foco em Dados.
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maria-souzar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-souzar&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ## 🌐 Onde me encontrar
 <p align="left">
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/maria-eduarda-de-souza-ribeiro-a160a72aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:mariaduda.souzarib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-⭐️ Feito com ❤️ por [Seu Nome]
+
+✨ Dando os primeiros passos rumo à carreira em tecnologia!
+
