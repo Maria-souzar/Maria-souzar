@@ -1,23 +1,3 @@
-## Olá! Me chamo Maria.👋
-
-Atualmente estou iniciando meus estudos em programação, com foco em Dados.
-
-## O que estou estudando:
-
-- Lógica de programação
-- Banco de dados
-- SQL, PHP, EXCEL, PYTHON
-- Git e GitHub
-
-## Me encontre por aqui:
-
-- [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-souza-ribeiro-a160a72aa/)
----
-
-
-
-
-
 
 <h1 align="center">👋 Olá, eu sou a Maria</h1>
 
@@ -29,16 +9,18 @@ Atualmente estou iniciando meus estudos em programação, com foco em Dados.
 
 ## 📌 Sobre mim
 - 🔭 Atualmente estudo na **Fatec**
-- 🌱 Aprendendo mais sobre **Python, sql, excel, git/github e lógica**
+- 🌱 Aprendendo mais sobre **Python, SQL, excel, git/github e lógica**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql" />
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </p>
 
 ---
