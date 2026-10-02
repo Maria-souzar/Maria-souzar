@@ -16,10 +16,10 @@
 ## 🛠️ Tecnologias & Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
