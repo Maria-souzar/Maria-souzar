@@ -15,12 +15,11 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="left">
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
