@@ -2,13 +2,13 @@
 <h1 align="center">👋 Olá, eu sou a Maria</h1>
 
 <p align="center">
-   Estudante | Apaixonada por dados | dedicada
+   Estudante | Apaixonada por dados | Dedicada
 </p>
 
 ---
 
 ## 📌 Sobre mim
-- 🔭 Atualmente estudo na **Fatec**
+- 🔭 Atualmente estudo **Desenvolvimento de Software Multiplataforma na Fatec**
 - 🌱 Aprendendo mais sobre **Python, SQL, excel, git/github e lógica**
 
 ---
